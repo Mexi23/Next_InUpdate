@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "Sounds Updated Available",
+  "Description": "NEXT INJECTOOLS recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Later",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.next.injectools",
+  "Version": "1.1"
+}
