@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
   "Title": "New Updates Available",
-  "Description": "NEXT INJECTOOLS recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
+  "Description": "JC TOOLS V2 PRO recommends that you update the Latest Version. Fix Some Bugs And Added New Skins.",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.next.injectools",
-  "Version": "2.101"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.jctoolv2.pro",
+  "Version": "2.104"
 }
